@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-# { site.title }
+# Big Test
 
 You can use the [editor on GitHub](https://github.com/zenkbaries/themetest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
